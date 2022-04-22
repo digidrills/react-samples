@@ -1,2 +1,0 @@
-# react-samples
-React Samples
