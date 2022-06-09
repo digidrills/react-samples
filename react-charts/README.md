@@ -1,9 +1,9 @@
 ## react-samples-for-multiple graphs with 2 layer drilldown
 
 Points Covered during evaluation
-- bar chart for represting data
-- line char with lengends
-- two layers of data represting
+- bar chart for representing data
+- line char with legends
+- two layers representation of data
 - tooltip with more information 
 
 Pre-requisites / Usage
@@ -17,7 +17,7 @@ Pre-requisites / Usage
 -  npm  start cmd to run project 
 
 Points To Consider When Developing
-- make sure all version u installing matches above version numbers.
+- make sure all versions matches above version numbers.
 - make sure react-bootstrap is installed.
 
 THIS REPO HAS FOLL. FILES
